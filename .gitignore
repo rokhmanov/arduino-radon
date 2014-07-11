@@ -1,0 +1,10 @@
+.settings
+target
+.project
+.iso
+.classpath
+bin
+build.xml
+.DS_Store
+m2e-wtp
+*.box
